@@ -1,6 +1,6 @@
 - Hi, I’m Sopulu
 - I’m interested in Software Programming
-- I’m currently learning coding on Udacity.com
+- I’m currently learning coding on [Udacity.com](https://auth.udacity.com)
 - I’m looking to collaborate on Coding Projects
 - You can reach me with my gmail, natalie.ebunoha@gmail.com
 - Pronouns: she/her
